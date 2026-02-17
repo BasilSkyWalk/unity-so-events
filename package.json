@@ -1,0 +1,17 @@
+{
+  "name": "com.goc.so-events",
+  "version": "1.0.0",
+  "displayName": "SO Events",
+  "description": "Designer-friendly, singleton-free event system built on ScriptableObjects.",
+  "unity": "2021.3",
+  "author": {
+    "name": "BasilSkyWalk",
+    "url": "https://github.com/BasilSkyWalk"
+  },
+  "license": "MIT",
+  "keywords": [
+    "events",
+    "scriptableobject",
+    "architecture"
+  ]
+}
